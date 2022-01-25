@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Psychogram
 - 👀 I’m interested in art and code
 - 🌱 I’m currently learning code!
-- 📫 How to reach me at psychogram200@gmail.com
+- 📫 you can reach me at psychogram200@gmail.com
 
 <!---
 Psychogram/Psychogram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
